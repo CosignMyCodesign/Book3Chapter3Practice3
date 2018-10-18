@@ -59,7 +59,9 @@ function grilling(i) {
 grilling(hamburger);
 uncookedFood
 //______________________________________________________________________
-// *Answer #2*
+//The answers below were done after coming back to the exercise a few days later with a better understanding of what I was wanting to do.
+
+//  *Answer #2*
 // ---This way will cook all the items at once and push them all to the cookedFood array, but it will not take them out of the uncooked array.
   
   for (let i = 0; i < uncookedFood.length; i++) {
